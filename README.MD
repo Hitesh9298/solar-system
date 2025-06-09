@@ -1,5 +1,6 @@
 # 3D Solar System Simulation with Three.js
-
+## Live Demo
+[View the 3D Solar System Simulation](https://hitesh9298.github.io/solar-system/)
 This project is a responsive 3D simulation of our solar system built with Three.js. It features all 8 planets orbiting the sun with adjustable speeds, interactive controls, and a clean UI.
 
 ## Features
